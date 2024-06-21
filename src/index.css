@@ -1,0 +1,75 @@
+#navbar {
+    background-color: #02000A!important;
+    font-family: sans-serif;
+
+    
+  }
+  Form{
+    gap: 12px;
+  }
+  .text-decoration-none{
+    text-decoration: none;
+    padding: 8px;
+    color: rgb(150, 150, 150);
+  }
+  nav{
+    display: flex;
+    gap: 12px;
+  }
+.Active{
+  color:aliceblue;
+  border-bottom: 1px solid rgb(2, 167, 11);
+}
+.bigtext{
+  margin-left: 20%;
+  width: 60%;
+  font-size: 5vw;
+  color: rgb(2, 167, 11);
+}
+.bigtext2{
+
+  margin-left: 32%;
+  width: 60%;
+  font-size: 5vw;
+  color: rgb(2, 167, 11);
+
+}
+.hero{
+  margin-top: 10%;
+  font-family: sans-serif;
+  width: 100%;
+  text-align: center;
+}
+.formhero{
+  border-radius: 25px;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  background-color: #02000A;
+  color: aliceblue;
+}
+.form{
+  font-family: sans-serif;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+}
+.form1{
+  width: 400px;
+
+}
+.form2{
+  width: 400px;
+}
+.createuser{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.btnCenter{
+  text-align: center;
+}
+.createbody{
+  background-color: #f3f3f3;
+}
