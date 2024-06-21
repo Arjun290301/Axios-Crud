@@ -8,7 +8,7 @@ export default defineConfig({
     open: true,
   },
   build: {
-    outDir: 'build', // Change this to 'build' to match Vercel's expectation
+    outDir: 'dist', // Change this to 'build' to match Vercel's expectation
   },
 });
 
